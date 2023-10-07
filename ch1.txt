@@ -1,4 +1,3 @@
 első verzió
-main, változtatás 01
-main, változtatás 02
-main, változtatás 03
+feri 01
+feri 02
